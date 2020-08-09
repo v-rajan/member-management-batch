@@ -338,7 +338,6 @@ public class BatchConfig {
 				.reader(registrationXmlReader)
 				.processor(new XmlItemProcessor())
 				.writer(registrationWriter)
-				.taskExecutor(taskExecutor())
 				.build();
 	}
 
