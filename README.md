@@ -33,3 +33,9 @@ mvn clean install
 cd src/test/resources/payload/sample001
 ./curl-test.sh
 ```
+
+# Properties
+Key | Description
+:------- | ------                               
+| batch.process.dir | Directory used to store the files to be processed.
+| batch.process.queue.consumer  | The concurent consumers used by the apache camel seda endpoint.
