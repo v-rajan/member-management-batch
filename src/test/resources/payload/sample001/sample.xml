@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Transaction>
+	<Registration>
+		<transactionIdentifier>1</transactionIdentifier>
+		<employerNames>ACME Inc</employerNames>
+		<employerABN>55 794 738 187</employerABN>
+		<fundIdentifier>FUND123</fundIdentifier>
+	</Registration>
+	<Registration>
+		<transactionIdentifier>1</transactionIdentifier>
+		<employerNames>ACME Inc</employerNames>
+		<employerABN>55 794 738 187</employerABN>
+		<fundIdentifier>FUND123</fundIdentifier>
+	</Registration>
+	<Registration>
+		<transactionIdentifier>1</transactionIdentifier>
+		<employerNames>ACME Inc</employerNames>
+		<employerABN>55 794 738 187</employerABN>
+		<fundIdentifier>FUND123</fundIdentifier>
+	</Registration>
+	<Registration>
+		<transactionIdentifier>1</transactionIdentifier>
+		<employerNames>ACME Inc</employerNames>
+		<employerABN>55 794 738 187</employerABN>
+		<fundIdentifier>FUND123</fundIdentifier>
+	</Registration>
+</Transaction>
