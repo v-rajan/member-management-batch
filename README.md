@@ -1,4 +1,8 @@
-The solution was was build on Spring Boot with Spring Batch and Apache camel. 
+Merge a CSV and a XML files into a JSON file. 
+
+![architecture](doc/images/solution.png)
+
+The solution is deployed on Spring Boot with Spring Batch and Apache camel. 
 
 [Spring Boot](https://spring.io/projects/spring-boot)
 
