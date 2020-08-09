@@ -1,8 +1,8 @@
-Merge a CSV and a XML files into a JSON file. 
+Merge a CSV and a XML file into a JSON file. 
 
-![architecture](doc/images/solution.png)
+![solution](doc/images/solution.png)
 
-The solution is deployed on Spring Boot with Spring Batch and Apache camel. 
+The solution is deployed on Spring Boot with Spring Batch and Apache Camel. 
 
 [Spring Boot](https://spring.io/projects/spring-boot)
 
