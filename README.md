@@ -44,9 +44,6 @@ Key | Description
 [member-management-batch](https://hub.docker.com/repository/docker/vrajan/member-management-batch)
 ## Start Server
 ```console
-cd ..
-docker pull vrajan/member-management-batch:latest
-
 docker run  -t \
     --name member-management-batch \
     -p 8181:8181 \
