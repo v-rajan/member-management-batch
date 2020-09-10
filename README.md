@@ -6,9 +6,9 @@ The solution is deployed on Spring Boot with Spring Batch and Apache Camel.
 
 [Spring Boot](https://spring.io/projects/spring-boot)
 
-[Spring Batch](https://camel.apache.org)
+[Spring Batch](https://spring.io/projects/spring-batch)
 
-[Apache Camel](https://www.mailgun.com)
+[Apache Camel](https://camel.apache.org)
 
 # Prerequites
 * JDK 11
